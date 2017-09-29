@@ -1,0 +1,39 @@
+.green-banner {
+    height: 400px;
+    background-color: #62c87a;
+}
+
+.header-word {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.main-paragraph {
+    text-align: center;
+    font-size: 14px;
+}
+
+.image {
+    border-radius: 50%;
+    width: 312px;
+    height: 300px;
+
+}
+
+.image-container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.footer-icon {
+    color: white;
+    margin-left: 12px;
+    margin-right: 12px;
+    cursor: pointer;
+}
+
+.footer-icon-end {
+    color: white;
+    margin-left: 12px;
+    cursor: pointer;
+}
