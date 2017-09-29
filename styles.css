@@ -1,3 +1,7 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
 .green-banner {
     height: 400px;
     background-color: #62c87a;
@@ -36,4 +40,35 @@
     color: white;
     margin-left: 12px;
     cursor: pointer;
+}
+
+.skills {
+    color: #828282;
+}
+
+.skills-header {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+.skills-sub-header {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.skills-section {
+    margin-top:60px;
+}
+
+.skills-text {
+    font-size: 14px;
+}
+
+.skills-image {
+    max-width: 150px;
+    max-height: 150px;
+    margin-right: 40px;
+    margin-left: 40px;
 }
